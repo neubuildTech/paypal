@@ -4,3 +4,5 @@ dominion
 alexand
 jick
 ngea
+Ayo
+Obi
